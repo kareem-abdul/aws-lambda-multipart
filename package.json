@@ -1,0 +1,16 @@
+{
+  "name": "aws-multipart-parser",
+  "version": "1.0.0",
+  "description": "a multipart parser for an aws lamda",
+  "main": "multipart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aws",
+    "lamda",
+    "multipart"
+  ],
+  "author": "Abdul Kareem P.A",
+  "license": "MIT"
+}
